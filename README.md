@@ -23,7 +23,7 @@ O Processador que me utilizo é intel i7 conforme descrição abaixo. Mas creio 
 
 IMPORTANTE
 
-Contém um SMBIOS gerada com GenSMBIOS, modelo  MaPro 1,1  deste guia:
+Contém um SMBIOS gerada com GenSMBIOS, modelo  MacPro 1,1  deste guia:
 
 https://github.com/corpnewt/GenSMBIOS 
 
