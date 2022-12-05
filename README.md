@@ -1,4 +1,4 @@
-# EFI-OC-DIDESK7-BKP-0.8.7---FULL-SSDT-POWER-01122022
+# EFI OPENCORE IDESK7 BKP 0.8.7 intel 6700k SkyLake SSDTs FULL 01122022
 EFI Compatible with Gigabyte Z170 XP SLI 100 series. Opencore boot loader to run Hackintosh macOS Ventura 13.0.1
 
 Esta pasta EFi está em perfeito funcionamento para placa mãe Gigabyte Z170 XP Sli v.1
